@@ -1,0 +1,1 @@
+I wasn't quite sure how to show you the change that i made in sage, so i used what you did in lecture and downloaded the terminal, i'll also put a link to a copy and paste of the image
